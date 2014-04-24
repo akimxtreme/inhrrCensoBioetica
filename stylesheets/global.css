@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+.barra_gris { border-bottom: 4px #CCCCCC solid; background:#FFFFFF;}
+
+.box {
+	visibility:hidden;
+	position:fixed;
+	}
+	
+#no{
+	visibility:hidden;
+	position:fixed;
+	}
+#si{
+	visibility:hidden;
+	position:fixed;
+	}
+	
+#tr0 { background:#FFFF00;}
+#tr1 { background:#09C;}
+#tr2 { background:red;}
